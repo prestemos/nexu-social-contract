@@ -44,4 +44,4 @@ We hereby commit to this social contract as a team,
 - [ ] Remigio Arenas
 - [ ] David Montante
 - [x] 18.07.2017 Javier Sagastuy
-- [ ] Aarón Sánchez
+- [x] 18.07.2017 Aarón Sánchez
