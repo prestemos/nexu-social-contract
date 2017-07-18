@@ -21,7 +21,7 @@ To achieve this, we commit to the following for our day to day work:
 * Share what we learn either verbally or through our #dailydigest slack channel, at least once a week.
 * If we think about something, or have an idea, got through with it!
 * When in doubt, research, then ask.
-* Always base decisions and arguments on data and research. 
+* Always base decisions and arguments on data and research.
 
 ## Communication
 * Face to face and phone conversations over email or IM, anytime.
@@ -43,5 +43,5 @@ We hereby commit to this social contract as a team,
 - [ ] Abdon Nacif
 - [ ] Remigio Arenas
 - [ ] David Montante
-- [ ] Javier Sagastuy
+- [x] 18.07.2017 Javier Sagastuy
 - [ ] Aarón Sánchez
