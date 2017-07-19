@@ -41,7 +41,7 @@ To achieve this, we commit to the following for our day to day work:
 
 We hereby commit to this social contract as a team,
 - [ ] Abdon Nacif
-- [ ] Remigio Arenas
+- [x] 19.07.2017 Remigio Arenas
 - [ ] David Montante
 - [x] 18.07.2017 Javier Sagastuy
 - [x] 18.07.2017 Aarón Sánchez
