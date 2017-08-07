@@ -47,3 +47,4 @@ We hereby commit to this social contract as a team,
 - [x] 20.07.2017 David Montante
 - [x] 18.07.2017 Javier Sagastuy
 - [x] 18.07.2017 Aarón Sánchez
+- [x] 07.08.2017 Emmanuel Byrd
