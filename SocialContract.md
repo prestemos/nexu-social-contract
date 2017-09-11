@@ -40,6 +40,7 @@ To achieve this, we commit to the following for our day to day work:
 * Meet deadlines, honor commitments and respect timeboxes
 * Attend the Scrum at 10:15 am, everyday
 * Take time to build personal relationships
+* A branch without commits in two consecutive sprints must be reviewed, merged and deleted
 
 We hereby commit to this social contract as a team,
 - [x] 20.07.2017 Abdon Nacif
