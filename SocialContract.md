@@ -49,3 +49,4 @@ We hereby commit to this social contract as a team,
 - [x] 18.07.2017 Aarón Sánchez
 - [x] 07.08.2017 Emmanuel Byrd
 - [x] 18.08.2017 Arturo del Castillo
+- [x] 05.10.2017 María Almeida
