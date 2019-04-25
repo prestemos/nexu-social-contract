@@ -51,3 +51,4 @@ We hereby commit to this social contract as a team,
 - [x] 18.08.2017 Arturo del Castillo
 - [x] 05.10.2017 María Almeida
 - [x] 05.09.2018 Abraham Soto
+- [x] 24.04.2019 Alejandro Hernandez
