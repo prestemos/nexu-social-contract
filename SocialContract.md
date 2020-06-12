@@ -54,3 +54,4 @@ We hereby commit to this social contract as a team,
 - [x] 24.04.2019 Alejandro Hernandez
 - [x] 18.10.2019 Eduardo Woldenberg
 - [x] 13.01.2020 César Ascencio
+- [x] 12.06.2020 Jesús Durán
