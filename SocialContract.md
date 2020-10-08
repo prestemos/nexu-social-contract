@@ -57,3 +57,4 @@ We hereby commit to this social contract as a team,
 - [x] 12.06.2020 Jesús Durán
 - [x] 15.06.2020 Pedro Titla
 - [x] 13.07.2020 Rafael Galván
+- [x] 05.10.2020 Pablo Gómez
