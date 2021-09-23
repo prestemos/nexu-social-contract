@@ -38,7 +38,7 @@ To achieve this, we commit to the following for our day to day work:
 * Ask for help, help when asked
 * Choose and promote teamwork over individualism
 * Meet deadlines, honor commitments and respect timeboxes
-* Attend the Scrum at 10:15 am, everyday
+* Attend the Scrum on time, everyday
 * Take time to build personal relationships
 
 We hereby commit to this social contract as a team,
