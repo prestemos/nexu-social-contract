@@ -60,3 +60,5 @@ We hereby commit to this social contract as a team,
 - [x] 05.10.2020 Pablo Gómez
 - [x] 06.10.2020 Jesús Duarte
 - [x] 23.09.2021 Ángel Gamboa
+- [x] 23.09.2021 Alejandro Cortina
+
