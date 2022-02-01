@@ -62,3 +62,4 @@ We hereby commit to this social contract as a team,
 - [x] 23.09.2021 Ángel Gamboa
 - [x] 23.09.2021 Alejandro Cortina
 - [x] 24.11.2021 Danira Vazquez
+- [x] 1.2.2022 Rodrigo Gil
