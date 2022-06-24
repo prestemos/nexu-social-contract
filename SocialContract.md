@@ -65,3 +65,4 @@ We hereby commit to this social contract as a team,
 - [x] 01.02.2022 Mario Montes
 - [x] 01.02.2022 Rodrigo Gil
 - [x] 01.03.2022 Jorge Escobar
+- [x] 24.06.2022 Guillermo Díaz
