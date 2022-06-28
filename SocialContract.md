@@ -67,3 +67,4 @@ We hereby commit to this social contract as a team,
 - [x] 01.03.2022 Jorge Escobar
 - [x] 01.03.2022 Luis Martínez
 - [x] 31.05.2022 Guillermo Díaz
+- [x] 07.06.2022 Alejo Gutierrez
