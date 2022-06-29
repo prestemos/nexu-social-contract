@@ -76,3 +76,4 @@ We hereby commit to this social contract as a team,
 - [x] 07.06.2022 Alejo Gutierrez
 - [x] 14.06.2022 Eliezer Couoh
 - [x] 14.06.2022 Kevin Caballero
+- [X] 14.06.2022 Francisco Magaña
