@@ -78,3 +78,4 @@ We hereby commit to this social contract as a team,
 - [x] 14.06.2022 Kevin Caballero
 - [X] 14.06.2022 Francisco Magaña
 - [X] 04.10.2022 Karla Salomón
+- [X] 04.10.2022 Mario Marquez
