@@ -80,3 +80,4 @@ We hereby commit to this social contract as a team,
 - [X] 05.07.2022 Aracely Velázquez
 - [X] 04.10.2022 Karla Salomón
 - [X] 04.10.2022 Mario Marquez
+- [x] 17.07.2023 Erik Sánchez
